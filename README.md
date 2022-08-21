@@ -1,7 +1,7 @@
 # About us
 
 Hello we are *No Cheats*,<br>
-We are a german Scripting company and we are creating cheats for ***every*** game.
+We are a german scripting company and we are creating cheats for ***every*** game.
 
 ## Cheatlist
 > NoBux (Roblox) <br>
